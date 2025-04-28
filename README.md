@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**aouaKanazoe/aouaKanazoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Real-Time Systems Engineer passionate about Control Systems and Model-Based Design (MBD).
+
+---
+
+## 📫 How to reach me
+- LinkedIn: [Mon LinkedIn](https://linkedin.com/in/aoua-asmaa-kanazoe)
+
+---
+
+## 🛠️ Languages and Tools
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks)
+![Simulink](https://img.shields.io/badge/-Simulink-F37324?style=flat&logo=simulink)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
